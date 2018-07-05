@@ -1,0 +1,12 @@
+1462851761618	Encapsulate field 'personal'
+1462856664297	Encapsulate field 'casesToOpen'
+1462926942326	Rename field 'money'
+1462929497238	Encapsulate field 'offer'
+1463007083361	Rename field 'alreadyUsedValue'
+1463007104685	Rename field 'moneyAndAlreadyPlayedValue'
+1463007365758	Rename field 'caseToOpen'
+1463007390484	Rename field 'end'
+1463007401942	Rename field 'personal'
+1463007460621	Rename method 'dNdUser'
+1463013778145	Delete element
+1463013958480	Rename method 'dealNDeal'
