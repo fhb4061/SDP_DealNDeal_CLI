@@ -30,4 +30,5 @@ public class Banker {
 	public void setMin(int min) {
 		this.min = min;
 	}
+	
 }
